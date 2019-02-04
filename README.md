@@ -17,3 +17,11 @@ This repository contains the following scripts:
     
     4. comparecsvhashlist.py - this script will take in a list of passwords in a csv file and report which password and 
     corresponding user is compromised.
+
+Other files included:
+    
+    1. test movetodb.py - test script to populate mongoDB database.
+    2. pw.txt - just a list of plaintext passwords accompanied with the hash value and pwned status.
+    3. hashpwlist - hashes of passwords from pw.txt assigned to userid
+    4. pwned-passwords-sha1-ordered-by-count-v4-edit - sample hashed passwords list for testing.
+  
