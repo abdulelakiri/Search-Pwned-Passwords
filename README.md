@@ -1,6 +1,6 @@
 # Search-Pwned-Passwords
 
-Python Search tool to query a MongoDB data base populated with compromised passwords from HaveIBeenPwned.com
+Python Search tool that queries a MongoDB database populated with compromised passwords from HaveIBeenPwned.com
 TO use this tool, you will need to download the SHA1 list of pwned passwords from https://haveibeenpwned.com/Passwords.
 
 This repository contains the following scripts:
