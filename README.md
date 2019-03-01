@@ -1,4 +1,4 @@
-# Search-Pwned-Passwords
+# Search-Pwned-Passwords (Rainbow table from HaveIBeenPwned)
 
 Python Search tool that queries a MongoDB database populated with compromised passwords from HaveIBeenPwned.com.
 To use this tool, you will need to download the SHA1 list of pwned passwords from https://haveibeenpwned.com/Passwords.
